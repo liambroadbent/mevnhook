@@ -15,6 +15,7 @@
     "express": "^4.16.3"
   },
   "devDependencies": {
+    "mongoose": "^5.11.9",
     "nodemon": "^1.18.3",
     "prettier": "^2.0.5"
   }
